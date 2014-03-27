@@ -4,3 +4,6 @@ Double input key shortcut tweak.
 
 #### TODO
 Add icon for preferenceloader.
+
+#### Binary
+[http://cl.ly/UfXX](http://cl.ly/UfXX)
